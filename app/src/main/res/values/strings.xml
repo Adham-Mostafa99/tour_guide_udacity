@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!--    historical places -->
+    <string name="dahshur">A great place to visit, south of Cairo but easy to do when also visiting Saqqara and Memphis.</string>
+    <string name="dahshur_location">Cairo, Egypt</string>
+
+    <string name="gizuah">Camels, pyramids, desert - coming here was an amazing experience that cannot be adequately described.</string>
+    <string name="gizuah_location">Al Haram Str., Cairo 11511, Egypt</string>
+
+    <string name="memphis_and_sakkara">As part of our Cairo tour, we visited these two cities - Memphis and Sakkara.</string>
+    <string name="memphis_and_sakkara_location">Cairo 11655, Egypt</string>
+
+    <string name="mosque_of_al_azhar">The oldest university in the world is built around this ancient mosque,
+        which has been the center of Islamic scholarship since 975 AD.</string>
+    <string name="mosque_of_al_azhar_location">El Hossein Square, Cairo 11511, Egypt</string>
+
+    <string name="mosque_of_sultan_hassan">
+        This mosque, madrasa and tomb, is one of the most important sites of Cairo.</string>
+    <string name="mosque_of_sultan_hassan_location">Maydan Salah al-Din, Cairo 11511, Egypt</string>
+
+    <string name="mosque_of_ibn_tulun">This is considered one of Egypt\'s largest and oldest mosques.</string>
+    <string name="mosque_of_ibn_tulun_location">Al-Basatin, off Al-Saliba Street, Cairo 11511, Egypt</string>
+
+    <!--    restaurant -->
+    <string name="maison_thomas">Been here many times, the pizza is excellent,
+        with a thin crust and many options for toppings are offered.</string>
+    <string name="maison_thomas_location">157 26 of July St Zamalek, Cairo 11511 Egypt</string>
+
+    <string name="pane_vino_restaurant">Only the finest ingredients have been hand selected for an authentic taste
+        of Italy at Pane Vino</string>
+    <string name="pane_vino_restaurant_location">Semiramis Hotel, Cairo 11511 Egypt</string>
+
+    <string name="lucca">Great dinner and excellent service and a different taste and
+        the most beautiful pasta dish with Truffle Mushroom</string>
+    <string name="lucca_location">New Cairo First Settlement, New Cairo, Cairo 11477 Egypt
+        Website</string>
+
+    <string name="romanov">One of the best places ever, the food quality is perfect, the service is more than perfect.</string>
+    <string name="romanov_location">Kempinski Hotel First Settlement, New Cairo, Cairo 11511 Egypt</string>
+
+    <string name="jWs_steakhouse">Another JW treat. I have to commend the whole experience.
+        The setting, the vibe, the knowledgeable Mohammad and of course</string>
+    <string name="jWs_steakhouse_location">16 Saray El Gezira Street Zamalek, Cairo 11511 Egypt</string>
+
+    <string name="steak_corner">Nice steak , very tasty I was there with my wife we tried the mushroom steak very tasty I will be back ,
+        I recommend it to every one</string>
+    <string name="steak_corner_location">99 El Nasr St., Cairo 11511 Egypt</string>
+    
+<!--    hotels-->
+    <string name="kempinski_nile">The staff was friendly and helpful,everything was great,there was a variaty if dishes in breakfast.</string>
+    <string name="kempinski_nile_location">12 Ahmed Ragheb Street Cornish El-Nile, Garden City, Cairo 11519 Egypt</string>
+    
+    <string name="fairmont_nile">This hotel and the staff that work there make travelling on business very enjoyable indeed.</string>
+    <string name="fairmont_nile_location">Corniche El Nil Ramlet Beaulac, Cairo 2466 Egypt</string>
+    
+    <string name="novotel">This hotel is very close to the airport and offers a free shuttle.
+        It also features strong wifi and a nice pool area. </string>
+    <string name="novotel_location">Cairo 11776 Egypt</string>
+
+    <string name="steigenberger">Iti s a new, modern hotel, located right in the center of the city,
+        close to the Egyptian Museum. The room service did a wonderful job</string>
+    <string name="steigenberger_location">2 Kasr El Nile St Tahrir Square, Cairo 11511 Egypt</string>
+
+    <string name="dusit_thani">Excellent food and excellent services really it was a wonderful moments 
+        special thanks for chief Ahmed Saad</string>
+    <string name="dusit_thani_location">Fifth Settlement, New Cairo, Cairo 11511 Egypt</string>
+    
+    <string name="hilton">Really enjoyed the hotel , special way if treatments beginning from guests
+        relations who care about your coming ( Ms.Rania )</string>
+    <string name="hilton_location">Al Uruba, Heliopolis, Cairo 2466 Egypt</string>
+
+<!--    cafes-->
+    <string name="zen_cafe">Great food, drinks and service. Very professional staff and friendly especially Ahmed and Kariem.</string>
+    <string name="zen_cafe_location">Holiday Inn Cairo Maadi, 29 Corniche El Nil, Cairo 11511 Egypt</string>
+
+    <string name="nagib_mafouz">Well if you need to enjoy the smell of Egypt and the quality of food </string>
+    <string name="nagib_mafouz_location">5 El Badestan Lane Khan El Khalili, Cairo 11511 Egypt</string>
+
+    <string name="paul">Friendly stuff and good quality. I like thier products as they have the same
+        quality like main brunch in France</string>
+    <string name="paul_location">paul</string>
+
+    <string name="vinni_cafe">The cappuccino and the mango shake were very good.
+        The chicken wrap and broccoli soup were not bad. </string>
+    <string name="vinni_cafe_location">22 Hendawe St. Dokki, Giza 12311 Egypt</string>
+
+    <string name="cilantro">A small cafe/coffee shop with some good options on the menu. The staff were very friendly.</string>
+    <string name="cilantro_location">El Maady, Cairo 11511 Egypt</string>
+</resources>
