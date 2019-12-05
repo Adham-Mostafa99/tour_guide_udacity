@@ -22,12 +22,12 @@ public class Restaurants extends Fragment {
 
         ArrayList<ViewData> arrayList = new ArrayList<>();
 
-        arrayList.add(new ViewData(R.drawable.maison_thomas, "Maison Thomas", getString(R.string.maison_thomas), getString(R.string.maison_thomas_location)));
-        arrayList.add(new ViewData(R.drawable.pane_vino_restaurant, "Pane Vino Restaurant", getString(R.string.pane_vino_restaurant), getString(R.string.pane_vino_restaurant_location)));
-        arrayList.add(new ViewData(R.drawable.lucca, "Lucca", getString(R.string.lucca), getString(R.string.lucca_location)));
-        arrayList.add(new ViewData(R.drawable.steakhouse, "JW's Steakhouse", getString(R.string.jWs_steakhouse), getString(R.string.jWs_steakhouse_location)));
-        arrayList.add(new ViewData(R.drawable.romanov, "Romanov", getString(R.string.romanov), getString(R.string.romanov_location)));
-        arrayList.add(new ViewData(R.drawable.steak_corner, " Steak Corner", getString(R.string.steak_corner), getString(R.string.steak_corner_location)));
+        arrayList.add(new ViewData(R.drawable.maison_thomas, getString(R.string.maison_thomas_name), getString(R.string.maison_thomas), getString(R.string.maison_thomas_location)));
+        arrayList.add(new ViewData(R.drawable.pane_vino_restaurant, getString(R.string.pane_vino_restaurant_name), getString(R.string.pane_vino_restaurant), getString(R.string.pane_vino_restaurant_location)));
+        arrayList.add(new ViewData(R.drawable.lucca, getString(R.string.lucca_name), getString(R.string.lucca), getString(R.string.lucca_location)));
+        arrayList.add(new ViewData(R.drawable.steakhouse, getString(R.string.jWs_steakhouse_name), getString(R.string.jWs_steakhouse), getString(R.string.jWs_steakhouse_location)));
+        arrayList.add(new ViewData(R.drawable.romanov, getString(R.string.romanov_name), getString(R.string.romanov), getString(R.string.romanov_location)));
+        arrayList.add(new ViewData(R.drawable.steak_corner, getString(R.string.steak_corner_name), getString(R.string.steak_corner), getString(R.string.steak_corner_location)));
 
         RecyclerView recyclerView = restaurants.findViewById(R.id.recycle);
 

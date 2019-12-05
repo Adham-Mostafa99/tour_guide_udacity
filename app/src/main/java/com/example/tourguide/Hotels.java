@@ -22,12 +22,12 @@ public class Hotels extends Fragment {
 
         ArrayList<ViewData> arrayList = new ArrayList<>();
 
-        arrayList.add(new ViewData(R.drawable.kempinski_nile, "Kempinski Nile Hotel Cairo", getString(R.string.kempinski_nile), getString(R.string.kempinski_nile_location)));
-        arrayList.add(new ViewData(R.drawable.fairmont_nile, "Fairmont Nile City", getString(R.string.fairmont_nile), getString(R.string.fairmont_nile_location)));
-        arrayList.add(new ViewData(R.drawable.novotel, "Novotel Cairo Airport", getString(R.string.novotel), getString(R.string.novotel_location)));
-        arrayList.add(new ViewData(R.drawable.steigenberger, "Steigenberger Hotel El Tahrir", getString(R.string.steigenberger), getString(R.string.steigenberger_location)));
-        arrayList.add(new ViewData(R.drawable.dusit_thani, "Dusit Thani LakeView Cairo", getString(R.string.dusit_thani), getString(R.string.dusit_thani_location)));
-        arrayList.add(new ViewData(R.drawable.hilton, "Hilton Cairo Heliopolis", getString(R.string.hilton), getString(R.string.hilton_location)));
+        arrayList.add(new ViewData(R.drawable.kempinski_nile, getString(R.string.kempinski_nile_name), getString(R.string.kempinski_nile), getString(R.string.kempinski_nile_location)));
+        arrayList.add(new ViewData(R.drawable.fairmont_nile, getString(R.string.fairmont_nile_name), getString(R.string.fairmont_nile), getString(R.string.fairmont_nile_location)));
+        arrayList.add(new ViewData(R.drawable.novotel, getString(R.string.novotel_name), getString(R.string.novotel), getString(R.string.novotel_location)));
+        arrayList.add(new ViewData(R.drawable.steigenberger, getString(R.string.steigenberger_name), getString(R.string.steigenberger), getString(R.string.steigenberger_location)));
+        arrayList.add(new ViewData(R.drawable.dusit_thani, getString(R.string.dusit_thani_name), getString(R.string.dusit_thani), getString(R.string.dusit_thani_location)));
+        arrayList.add(new ViewData(R.drawable.hilton, getString(R.string.hilton_name), getString(R.string.hilton), getString(R.string.hilton_location)));
 
         RecyclerView recyclerView = hotels.findViewById(R.id.recycle);
 

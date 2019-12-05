@@ -42,13 +42,13 @@ public class FragmentAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         switch (position) {
             case 0:
-                return "Historical";
+                return context.getString(R.string.historical_fragment);
             case 1:
-                return "Restaurants";
+                return context.getString(R.string.restaurants_fragment);
             case 2:
-                return "Hotels";
+                return context.getString(R.string.hotels_fragment);
             default:
-                return "Cafes";
+                return context.getString(R.string.cafes_fragment);
 
         }    }
 }

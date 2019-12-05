@@ -22,12 +22,12 @@ public class Historical extends Fragment {
 
         ArrayList<ViewData> arrayList = new ArrayList<>();
 
-        arrayList.add(new ViewData(R.drawable.dahshur, "Dahshur", getString(R.string.dahshur), getString(R.string.dahshur_location)));
-        arrayList.add(new ViewData(R.drawable.gizuah, "Gizeh Plateau", getString(R.string.gizuah), getString(R.string.gizuah_location)));
-        arrayList.add(new ViewData(R.drawable.sakkara, "Memphis and Sakkara", getString(R.string.memphis_and_sakkara), getString(R.string.memphis_and_sakkara_location)));
-        arrayList.add(new ViewData(R.drawable.azhar, "Mosque of Al-Azhar", getString(R.string.mosque_of_al_azhar), getString(R.string.mosque_of_al_azhar_location)));
-        arrayList.add(new ViewData(R.drawable.sultan_hassan, "Mosque and Madrasa of Sultan Hassan", getString(R.string.mosque_of_sultan_hassan), getString(R.string.mosque_of_sultan_hassan_location)));
-        arrayList.add(new ViewData(R.drawable.ibn_tulun, "Mosque of Ibn Tulun", getString(R.string.mosque_of_ibn_tulun), getString(R.string.mosque_of_ibn_tulun_location)));
+        arrayList.add(new ViewData(R.drawable.dahshur, getString(R.string.dahshur_name), getString(R.string.dahshur), getString(R.string.dahshur_location)));
+        arrayList.add(new ViewData(R.drawable.gizuah, getString(R.string.gizuah_name), getString(R.string.gizuah), getString(R.string.gizuah_location)));
+        arrayList.add(new ViewData(R.drawable.sakkara, getString(R.string.memphis_and_sakkara_name), getString(R.string.memphis_and_sakkara), getString(R.string.memphis_and_sakkara_location)));
+        arrayList.add(new ViewData(R.drawable.azhar, getString(R.string.mosque_of_al_azhar_name), getString(R.string.mosque_of_al_azhar), getString(R.string.mosque_of_al_azhar_location)));
+        arrayList.add(new ViewData(R.drawable.sultan_hassan, getString(R.string.mosque_of_sultan_hassan_name), getString(R.string.mosque_of_sultan_hassan), getString(R.string.mosque_of_sultan_hassan_location)));
+        arrayList.add(new ViewData(R.drawable.ibn_tulun, getString(R.string.mosque_of_ibn_tulun_name), getString(R.string.mosque_of_ibn_tulun), getString(R.string.mosque_of_ibn_tulun_location)));
 
         RecyclerView recyclerView = historical.findViewById(R.id.recycle);
 
